@@ -1,0 +1,87 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f7f7f7;
+    color: #222;
+  }
+  
+  .hero {
+    background: #18333b url('images/hero-bg.jpg') no-repeat center center/cover;
+    min-height: 60vh;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+  }
+  
+  .footer {
+    background-color: #102024;
+    color: #fff;
+  }
+  
+  .footer a:hover {
+    color: #1abc9c;
+  }
+
+  .landing  {
+    background-image: linear-gradient(rgba(27, 50, 55, 0.5), rgba(27, 50, 55, 0.8)), 
+    url('bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; /* Replace with your image path */
+    background-color: rgb(255, 0, 0);
+  }
+  
+  .col-sm-6.d-flex.flex-column.justify-content-center {
+    color: white;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+  }
+  .navbar-nav .nav-link {
+    color: #fff;
+  }
+  .navbar-nav .nav-link:hover {
+    color: #1abc9c;
+  }
+  
+  .collapse navbar-collapse justify-content-end {
+    margin-left: auto;
+    color: #fff;
+  }
+  .social-links {
+    display: flex;
+  
+    margin-top: 20px;
+    color: #000;
+  }
+  .social-links a {
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  .social-links a:hover {
+    color: #1abc9c;
+  }
+
+  .skills h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  .skills h4 {
+    font-size: 1.5rem;
+    
+    margin-top: 20px;
+  }
+  .skills p {
+    font-size: 1rem;
+    margin-top: 100px; 
+   }
+  .skill-progress {
+    margin-bottom: 10px;
+    margin-top: 40px;
+  }

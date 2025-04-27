@@ -95,6 +95,9 @@ body {
     
     
   }
+  .skills-card p {
+    padding-left: 2rem;
+  }
 
   
   .skills-showcase {
@@ -124,3 +127,5 @@ body {
     background-color: #102024;
     color: #fff;
   }
+
+  

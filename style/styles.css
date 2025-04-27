@@ -6,9 +6,7 @@
   background-position: center;
   background-size: cover; /* Replace with your image path */
 }
-.col-sm-6.d-flex.flex-column.justify-content-center {
-  color: white;
-}
+
 .navbar-nav .nav-link {
   color: #fff;
 }
@@ -36,7 +34,7 @@
   font-weight: bold;
 }
 .col-sm-6.d-flex.flex-column.justify-content-center p {
-  font-size: 1.5rem;
+  font-size:rem;
  
 }
 .d-flex {
@@ -183,7 +181,7 @@ margin-top: 20px;
 }
 .social-links {
     display: flex;
-    justify-content: center;
+
     gap: 20px;
 }
 .UI{
@@ -203,3 +201,15 @@ margin-top: 20px;
 .clogo{
     font-size: 1.5rem;
 }
+
+.white{
+    color: #ffffff;
+}
+.t-left{
+    padding-left: 3rem;
+
+}
+.skill-card h5{
+    margin-left: .5rem;
+}
+

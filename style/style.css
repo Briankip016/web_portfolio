@@ -118,3 +118,9 @@ body {
       height: 100%; /* Adjust the height as needed */
   }
   
+  .footer {
+    padding: 20px 0;
+    text-align: center;
+    background-color: #102024;
+    color: #fff;
+  }

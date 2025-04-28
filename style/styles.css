@@ -81,23 +81,30 @@ margin-top: 20px;
     border-radius: 5px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #000000;
   }
   
   .service-card i {
     color: #198754;
+    margin-bottom: 1rem;
   }
   
   .service-card h3 {
     font-size: 1.3rem;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
+    color: #000000;
+    margin-top: 1rem;
   }
   
   .service-card p {
     font-size: 1rem;
+    color: #000000;
+    background: #000;
   }
     .service-card:hover {
         transform: scale(1.05);
         transition: transform 0.3s;
+        color: #198754;
     }
   
 .col-sm-6 {
@@ -211,5 +218,8 @@ margin-top: 20px;
 }
 .skill-card h5{
     margin-left: .5rem;
+}
+.serv{
+  background-color: #ffff00;
 }
 
